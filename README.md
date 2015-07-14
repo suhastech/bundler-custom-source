@@ -26,4 +26,4 @@ plugin "plugin-name"
 
 The :custom parameter is registered in this Plugin. You can have anything maybe :svn, :s3
 
-You can define it as shown in lib/bundler-custom-source.rb
+You can define it as shown in lib/bundler-custom-source.rb. The implementation is done in lib/source.rb
